@@ -16,15 +16,18 @@ Global Fishing Watch SAR Vessel Detections:-
 Provides satellite radar (SAR) detections of vessels.
 Includes flags for AIS matching, fishing scores, timestamps, and geolocations.
 Core source for identifying dark vessels.
+Link: https://globalfishingwatch.org/data-download/datasets/public-sar-vessel-detections%3Av20231026
 
 Recommended Datasets
 Global Fishing Watch AIS Presence:
 AIS track data to infer vessel movement, speed, and transmission behavior.
 Helps detect AIS gaps, loitering, and suspicious route patterns.
+Link: https://globalfishingwatch.org/platform-update/global-ais-vessel-presence-dataset/
 
 Exclusive Economic Zones (EEZ) shapefile
 Source: Marine Regions EEZ Boundaries
 Defines national maritime boundaries to identify when vessels enter foreign EEZs.
+Link: https://www.marineregions.org/downloads.php
 
 Marine Protected Areas (MPA) shapefile
 Identifies restricted fishing zones; presence inside an MPA is a strong indicator of illegal activity.
