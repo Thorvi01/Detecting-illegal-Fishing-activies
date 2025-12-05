@@ -109,8 +109,7 @@ Schedule daily/weekly ingestion using Airflow or cron.
 Automatically run preprocessing, prediction, and alert generation.
 Push top suspicious detections to a dashboard or analyst review system.
 
-10. How to run the file
-Download all datasets provided along with the DS_mk2.ipnyb file provided.
+10. How to run the file: Download all datasets provided along with the DS_mk2.ipnyb file provided.
 Load the dataset and the ipynb file to your local machine or Colab and run the ipynb after ensuring the dataset file locations are coded properly.
 
 
