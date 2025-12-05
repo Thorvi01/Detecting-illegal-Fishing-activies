@@ -29,28 +29,6 @@ Link: https://www.marineregions.org/downloads.php
 Marine Protected Areas (MPA) shapefile
 Identifies restricted fishing zones; presence inside an MPA is a strong indicator of illegal activity.
 
-Struture:
-illegal-fishing-detection/
-│
-├── data/
-│   ├── raw/                # raw downloaded datasets
-│   ├── processed/          # cleaned and feature-engineered datasets
-│
-├── notebooks/
-│   ├── DS_mk2.ipynb
-│
-├── models/
-│   ├── random_forest_sar_fishing.pkl
-│   └── xgboost_sar_fishing.pkl
-│
-├── outputs/
-│   ├── suspicious_predictions.csv
-│   └── suspicious_map.html
-│
-│
-├── README.md
-└── requirements.txt
-
 Step-by-Step Implementation
 
 1. Data Acquisition
